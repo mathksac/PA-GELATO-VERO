@@ -43,8 +43,3 @@ Para inserir os contatos, altere os textos em `templates/contato.html`.
 ## Testes
 Execute `python -m unittest test_app.py`.
 
-## Prévia Lovable versus este projeto
-A prévia online usa a tecnologia fixa do Lovable e não executa Flask.
-Este ZIP é o projeto acadêmico completo e independente com as tecnologias
-solicitadas. O cadastro funciona ao executar este projeto localmente.
-As fotografias foram geradas para este projeto; a logo é a imagem original enviada.
