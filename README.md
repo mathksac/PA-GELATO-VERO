@@ -1,5 +1,11 @@
 # Gelato Vero
 
+## Site da sorveteria
+
+[Abrir o site Gelato Vero](https://orchard-scoop-story.lovable.app)
+
+A publicação foi solicitada no Lovable. O cadastro com armazenamento de clientes pertence ao projeto Python abaixo; o envio do cadastro permanece desativado na versão online.
+
 Sorvetes artesanais com polpas de frutas naturais — projeto acadêmico (ETEC).
 
 O repositório guarda duas versões do mesmo site:
